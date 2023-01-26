@@ -1,0 +1,46 @@
+p{
+	text-align:center;
+	color:green
+}
+#moon{
+	background-color:gray;
+	font-size:30px;
+	color:white
+}
+.tiger{
+	background-color:yellow;
+	}
+p.lion{
+		text-align:left;
+		color:red}
+		
+h2,h3,h4{text-align:center;
+		color:purple;
+		background-color:}
+		
+div>p{background-color:white;
+text-align:left;
+color:gray}		
+
+div + p{
+	background-color:orange;
+	color:red;
+	text-align:left}
+	
+div~p{
+	background-color:black;
+	color:white;
+	text-align:left
+}	
+
+a[target="_blank"]{
+	background-color:orange
+}
+[title~="jetairways"]{
+	border:5px solid yellow
+}	
+[title~="spice"]{
+	border:5px solid red
+}	
+[class^="top"] {background-color:blue}	
+		
